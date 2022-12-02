@@ -19,7 +19,7 @@ cmd /min /C : is code to run in cmd.
 set __COMPAT_LAYER=RUNASINVOKER : run app as Admin without Admin.
 
  && start "" "%1" : start at the location of opened (dragged) file.
-
+ (I don't have skill of batch coding, maybe i'm wrong)
  USAGE/TUTORIAL:
 
  Drag your file with the shield icon on the bat file and run it!
